@@ -1,0 +1,16 @@
+{
+"CLIENTID":,
+"CLIENTSECRET":"",
+"BOTTOKEN":"",
+"PERMISSION":8,
+"MESSAGE":"test line right here",
+"MESSAGELIST":[
+    {"MSG":"line 1","ATCH":"https://d3ieicw58ybon5.cloudfront.net/full/u/f59a9434b34c4b7bb3cfafc6c43c0f3c.jpg"}, 
+    {"MSG":"line 2","ATCH":"https://i.pinimg.com/originals/f7/fe/2e/f7fe2e21ff411a12aa1717c1400ae69b.jpg"}, 
+    {"MSG":"line 3","ATCH":"https://wallpapersite.com/images/pages/pic_w/8040.jpg"}],
+"MESSAGENEWMEMBER":"User Joined:",
+"NEWMEMBERCHANNEL":"test-welcome",
+"POSTTIMEOUT": 1000,
+"VOICETIMEOUT":2000,
+"VOICEFILE":"test.mp3"
+}
